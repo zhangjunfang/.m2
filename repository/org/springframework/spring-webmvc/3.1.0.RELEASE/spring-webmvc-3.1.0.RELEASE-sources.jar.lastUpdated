@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 10 21:38:46 CST 2014
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1418218726465
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.springframework\:spring-webmvc\:jar\:sources\:3.1.0.RELEASE from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000

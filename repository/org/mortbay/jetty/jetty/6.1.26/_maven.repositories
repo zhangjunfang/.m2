@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 10 17:33:53 CST 2014
+jetty-6.1.26-sources.jar>nexus=
+jetty-6.1.26.pom>nexus=
+jetty-6.1.26.jar>nexus=
+jetty-6.1.26-javadoc.jar>central=

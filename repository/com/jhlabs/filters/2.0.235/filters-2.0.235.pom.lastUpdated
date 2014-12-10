@@ -1,0 +1,6 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 10 21:09:46 CST 2014
+http\://oss.sonatype.org/content/repositories/swinglabs-releases/.error=
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1418216982251
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.jhlabs\:filters\:pom\:2.0.235 from/to central (http\://repo.maven.apache.org/maven2)\: No response received after 60000
+http\://oss.sonatype.org/content/repositories/swinglabs-releases/.lastUpdated=1418216986520

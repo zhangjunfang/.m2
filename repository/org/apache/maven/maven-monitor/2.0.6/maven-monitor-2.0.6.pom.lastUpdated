@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Wed Dec 10 17:31:11 CST 2014
+http\://mvn.storevm.org\:8081/mvn/content/groups/public/.lastUpdated=1418203871783
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1418188976108
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven\:maven-monitor\:pom\:2.0.6 from/to central (http\://repo.maven.apache.org/maven2)\: Permission denied\: connect to http\://repo.maven.apache.org/maven2/org/apache/maven/maven-monitor/2.0.6/maven-monitor-2.0.6.pom
